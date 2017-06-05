@@ -48,13 +48,20 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> In installed Python 3, because that is the recommended version. I understand that some packages are only caompatible with Python versions 2.7, but I would rather learn how to use Python 3.0, thinking about the future. 
 
 ### Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> For macs, get to the command line and type:
+```
+python -V
+```
+>> For windows, get to the command line and type:
+```
+python
+```
 
  
 
