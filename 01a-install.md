@@ -48,7 +48,7 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> In installed Python 3, because that is the recommended version. I understand that some packages are only caompatible with Python versions 2.7, but I would rather learn how to use Python 3.0, thinking about the future. 
+>> I installed Python 3, because that is the recommended version. I understand that some packages are only caompatible with Python versions 2.7, but I would rather learn how to use Python 3.0, thinking about the future. 
 
 ### Q2. Which Python Version Installed   
 
