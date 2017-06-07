@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I think I will be using vim, because I felt that emacs would be a little bit too complicated for me and playing around with vim, I liked it the best. 
 
 --
 
@@ -89,6 +89,6 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I will be using sublime, because that is what I had been using. I love it, because it's light and easy to use. I think ctrl + x might be my favorite or most useful shortcut for the editor. I have not customized the editor. 
 
  
