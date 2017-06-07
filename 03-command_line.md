@@ -43,13 +43,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > `ls` - list directory contents
-> > `ls -a`  - list all directory contents, even hidden files
-> > `ls -l`  - use long listing format
-> > `ls -lh`  - list files with human redable format
-> > `ls -lah`  - list all directory contents in a human redable long listing format
-> > `ls -t`  - list all directory contents by date/time
-> > `ls -Glp` - also uses the long listing format?
+> > * `ls` - list directory contents
+> > * `ls -a`  - list all directory contents, even hidden files
+> > * `ls -l`  - use long listing format
+> > * `ls -lh`  - list files with human redable format
+> > * `ls -lah`  - list all directory contents in a human redable long listing format
+> > * `ls -t`  - list all directory contents by date/time
+> > * `ls -Glp` - also uses the long listing format?
 
 ---
 
@@ -57,11 +57,11 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > `-c`	- displays files by file timestamp
-> > `-R`	- displays subdirectories
-> > `-F`	- flags filenames
-> > `-r`	- displays files by file access time
-> > `-1`	- displays each entry on a line
+> > * `-c`	- displays files by file timestamp
+> > * `-R`	- displays subdirectories
+> > * `-F`	- flags filenames
+> > * `-r`	- displays files by file access time
+> > * `-1`	- displays each entry on a line
 
 ---
 
